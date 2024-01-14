@@ -2,7 +2,7 @@
 
 Responsive yapıda oluşturulmuş kişisel bir web sitesi proje örneğidir.
 
-Demo için [tıklayınız](https://aaygunn.github.io/PersonalWebPage)
+Demo için [tıklayınız](https://aaygunn.github.io/PersonalWebPage/)
 
 <h2>Kullanılan Teknolojiler</h2>
 
